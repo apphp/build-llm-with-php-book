@@ -12,3 +12,7 @@
 * [2.3 Converting tokens to token IDs](2.-working-with-text-data/2.3-converting-tokens-to-token-ids.md)
 * [2.4 Adding Special Context Tokens](2.-working-with-text-data/2.4-adding-special-context-tokens.md)
 * [2.5 Byte Pair Encoding](2.-working-with-text-data/2.5-byte-pair-encoding.md)
+
+## 3. CREATING ATTENTION MECHANISMS
+
+* [Page 1](3.-creating-attention-mechanisms/page-1.md)
