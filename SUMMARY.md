@@ -12,8 +12,9 @@
 * [2.3 Converting Tokens to Token IDs](2.-working-with-text-data/2.3-converting-tokens-to-token-ids.md)
 * [2.4 Adding Special Context Tokens](2.-working-with-text-data/2.4-adding-special-context-tokens.md)
 * [2.5 Byte Pair Encoding](2.-working-with-text-data/2.5-byte-pair-encoding.md)
-* [2.6 Data sampling with a sliding window](2.-working-with-text-data/2.6-data-sampling-with-a-sliding-window.md)
-* [2.7 Creating token embeddings](2.-working-with-text-data/2.7-creating-token-embeddings.md)
+* [2.6 Data Sampling With a Sliding Window](2.-working-with-text-data/2.6-data-sampling-with-a-sliding-window.md)
+* [2.7 Creating Token Embeddings](2.-working-with-text-data/2.7-creating-token-embeddings.md)
+* [2.8. Word Position Coding](2.-working-with-text-data/2.8.-word-position-coding.md)
 
 ## 3. CREATING ATTENTION MECHANISMS
 
